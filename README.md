@@ -1,1 +1,1 @@
-# MaximumSubArray with indexes First and Last elements of Sub Array 
+# MaximumSubArray with indexes of First and Last elements of Sub Array 
